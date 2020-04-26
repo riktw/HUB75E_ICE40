@@ -1,0 +1,21 @@
+set_io io_clk  4
+set_io io_RGB0_R 23
+set_io io_RGB0_G 25
+set_io io_RGB0_B 43
+set_io io_RGB1_R 26
+set_io io_RGB1_G 27
+set_io io_RGB1_B 42
+set_io io_Latch 35
+set_io io_Blank 34
+set_io io_sclk 32 
+set_io io_Address[0] 28
+set_io io_Address[1] 37
+set_io io_Address[2] 31
+set_io io_Address[3] 36
+set_io io_Address[4] 38
+
+set_io io_spi_sclk 21
+set_io io_spi_mosi 20
+set_io io_spi_miso_write 19
+set_io io_spi_miso_writeEnable 18
+set_io io_spi_ss 11
