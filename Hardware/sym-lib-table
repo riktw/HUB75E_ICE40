@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ICE40Module-rescue)(type Legacy)(uri ${KIPRJMOD}/ICE40Module-rescue.lib)(options "")(descr ""))
+)
